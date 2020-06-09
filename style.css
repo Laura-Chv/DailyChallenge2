@@ -15,7 +15,7 @@ nav{
 } 
 
 .feature {
-  border: 1px; solid #F2F2F2;
+  border: 2px dotted #A4A4A4;
   margin: 15px;
   padding: 15px 0;
   text-align: center;
@@ -84,7 +84,7 @@ a:hover {
 
 /* Mis en forme de la baseline */
 #baseline{
-  background-color: #41A3C0;
+  background-color: rgb(182,191,203);
   text-align: center;
   background-size: cover;
   padding: 150px;
